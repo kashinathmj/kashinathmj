@@ -1,6 +1,9 @@
 <h1 align='center'>
   Hi there 👋 I'm Kashinath M J! 👨‍💻
 </h1>
+<h2 align='center'>
+  Full Stack Web Developer
+</h2>
 
 - 🔭 I’m currently working on Academic and Social Projects.
 - 🌱 I’m currently learning Java - Full Stack Web Development.
