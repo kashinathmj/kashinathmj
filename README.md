@@ -8,3 +8,5 @@
 - 📫 How to reach me: kashinath.ece@gmail.com, [LinkedIn - Kashinath M J](https://www.linkedin.com/in/kashinathmj)
 - ⚡ Fun fact: I spend most of my free time in listening songs and cooking foood!
 
+
+<img src = "https://github-readme-stats.vercel.app/api?username=kashinathmj&show_icons=true&theme=light&line_height=27%22%20alt=%22Kashinath%27s%20GitHub%20Stats%22">
